@@ -22,3 +22,5 @@ python realtime_demo.py
 ```
 
 When you use it for the first time , weights are downloaded and stored in **./pretrained_models** folder.
+
+https://rb.gy/8bm4ft
